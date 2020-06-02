@@ -1,0 +1,18 @@
+.sl_slide{
+position: relative;
+}
+
+.sl1 .slick-prev:before, .sl1 .slick-next:before {
+    margin-right: -5px;
+}
+
+.sl_slide2 img{
+    background-image: url("../img/table.png") ;
+    background-size: 600px;
+    width: 600px;
+    }
+
+.sl_slide img{
+    height: 250px;
+    margin-right: 5px;
+}
